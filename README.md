@@ -15,3 +15,7 @@ The dataset consists of images organized into three categories: Meals, Drinks, a
 The model achieves a reasonable accuracy in distinguishing between meals, drinks, and desserts. Further improvements can be made by enhancing the dataset and refining the model.
 
 
+
+
+https://github.com/user-attachments/assets/11288d56-6c86-4e87-96fd-e3b3b5dde192
+
